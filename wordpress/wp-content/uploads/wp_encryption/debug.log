@@ -1,0 +1,36 @@
+<b>5.0.9  SINGLE DOMAIN SSL 0</b>
+[06-08-2020 09:41:28] :
+No account found, attempting to create account.
+
+[06-08-2020 09:41:29] :
+LEClient finished constructing
+
+[06-08-2020 09:41:29] :
+No order found for 'nabservices.at'. Creating new order.
+
+[06-08-2020 09:41:31] :
+Created order for 'nabservices.at'.
+
+Cleaning &amp; re-generating challenges
+[06-08-2020 09:45:15] :
+LEClient finished constructing
+
+Verify your domain by adding the below TXT records to your domain DNS records (Refer FAQ for video tutorial on how to add these DNS records)
+
+Name: <b>_acme-challenge.nabservices.at</b> or <b>_acme-challenge</b>
+          TTL: <b>60</b> or <b>Lowest</b> possible value
+          Type: <b>TXT</b>
+          Value: <b>Vq8R7cbRP43sPA1Tc3XIMbyG0hLfFjV-w8aOXRr84u4</b><br>
+          
+[06-08-2020 09:45:17] :
+DNS challenge for 'nabservices.at' valid.
+
+Finalizing the order
+[06-08-2020 09:45:21] :
+Order for 'nabservices.at' finalized.
+
+Getting SSL certificates
+[06-08-2020 09:45:21] :
+Certificate for 'nabservices.at' saved
+
+<h2>SSL Certificate generated successfully!</h2>
